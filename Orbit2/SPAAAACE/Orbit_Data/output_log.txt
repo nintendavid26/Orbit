@@ -1,0 +1,85 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ninte\Downloads\Orbit\SPAAAACE\Orbit_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4d38 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.481510 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 2.529978 ms (FindLiveObjects: 0.146963 ms CreateObjectMapping: 0.054123 ms MarkObjects: 1.323063 ms  DeleteObjects: 0.997136 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.909433 ms
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.493432 ms (FindLiveObjects: 0.050963 ms CreateObjectMapping: 0.025679 ms MarkObjects: 0.391506 ms  DeleteObjects: 0.023703 ms)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Poisoned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
